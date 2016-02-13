@@ -1,0 +1,6 @@
+{
+  "name": "My build is blinking",
+  "description": "My first IoT project that will make your build blink!",
+  "repository": "https://github.com/SteffiPeTaffy/MyBuildIsBlinking",
+  "keywords": ["node", "express", "static", "IoT"]
+}
